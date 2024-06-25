@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**manojbajaj95/manojbajaj95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![roadmap.sh](https://roadmap.sh/card/wide/667af1c2c19525099e6455cc?variant=dark)](https://roadmap.sh)
