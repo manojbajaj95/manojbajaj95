@@ -5,9 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Mando](https://mando.work/)
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with LLM Tooling Infra
 - 💬 Ask me about Building MVP, DevTools
-- 📫 How to reach me: [manoj@mbajaj.dev](mailto:manoj@mbajaj.dev)
+- 📫 How to reach me: [manojbajaj95@gmail.com](mailto:manojbajaj95@gmail.com)
 - 😄 Pronouns: He/Him
-
-[![roadmap.sh](https://roadmap.sh/card/wide/667af1c2c19525099e6455cc?variant=dark)](https://roadmap.sh)
