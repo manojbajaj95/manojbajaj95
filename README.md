@@ -1,10 +1,14 @@
-## Hi there 👋
+# Manoj Bajaj
 
-Here are some ideas to get you started:
+Building primitives that make autonomous agents more capable.
 
-- 🔭 I’m currently working on [Ruzo](https://ruzo.ai/)
-- 🌱 I’m currently learning Agent harness, RL environments
-- 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with LLM Tooling, runtimes and Infra
-- 📫 How to reach me: [manojbajaj95@gmail.com](mailto:manojbajaj95@gmail.com)
-- 😄 Pronouns: He/Him
+Agents are moving from chat windows into real systems. But they still lack the infrastructure humans and services take for granted: identity, credentials, permissions, tools, memory, payments, scheduling, and audit.
+
+I’m building open-source infrastructure that gives agents those missing primitives.
+
+Current work:
+
+- **Passport** — identity for agents
+- **Authsome** — safe credential access for agents
+- **Market** — wallet and paid API access for agents
+- **Skills** — reusable capabilities for agents
