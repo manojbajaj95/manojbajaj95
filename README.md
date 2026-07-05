@@ -8,8 +8,12 @@ I’m building open-source infrastructure that gives agents those missing primit
 
 
 [Colab](https://github.com/manojbajaj95/colab) - Realtime collaboration canvas for Agents & Humans
+
 [Authsome](https://authsome.ai) - Credential broker for AI Agents
+
 [Ruzo](https://ruzo.ai) - Your personal AI assistant
+
 [GTM Skills](https://github.com/manojbajaj95/claude-gtm-plugin) - GTM Skills for AI native teams
+
 [Darin](https://getdarin.com) - First AI PM
 
