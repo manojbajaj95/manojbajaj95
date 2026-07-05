@@ -17,3 +17,5 @@ I’m building open-source infrastructure that gives agents those missing primit
 
 [Darin](https://getdarin.com) - First AI PM
 
+[Juxtapose](https://github.com/manojbajaj95/juxtapose) - Multi agent orchestration
+
