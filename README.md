@@ -7,7 +7,9 @@ Agents are moving from chat windows into real systems. But they still lack the i
 I’m building open-source infrastructure that gives agents those missing primitives.
 
 
+[Colab](https://github.com/manojbajaj95/colab) - Realtime collaboration canvas for Agents & Humans
 [Authsome](https://authsome.ai) - Credential broker for AI Agents
 [Ruzo](https://ruzo.ai) - Your personal AI assistant
+[GTM Skills](https://github.com/manojbajaj95/claude-gtm-plugin) - GTM Skills for AI native teams
 [Darin](https://getdarin.com) - First AI PM
 
