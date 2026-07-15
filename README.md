@@ -15,7 +15,7 @@ I’m building open-source infrastructure that gives agents those missing primit
 
 [Darin](https://getdarin.com) - Knowledge Base for engineering teams
 
-[Juxtapose](https://github.com/manojbajaj95/juxtapose) - Multi agent orchestration
+[Juxtapose](https://github.com/manojbajaj95/juxtapose) - Multi agent orchestration ( Not maintained )
 
 [Colab](https://github.com/manojbajaj95/colab) - Realtime collaboration canvas for Agents & Humans ( merged with Darin )
 
