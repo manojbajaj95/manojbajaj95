@@ -13,7 +13,7 @@ I’m building open-source infrastructure that gives agents those missing primit
 
 [GTM Skills](https://github.com/manojbajaj95/claude-gtm-plugin) - GTM Skills for AI native teams
 
-[Darin](https://getdarin.com) - First AI PM
+[Darin](https://getdarin.com) - Knowledge Base for engineering teams
 
 [Juxtapose](https://github.com/manojbajaj95/juxtapose) - Multi agent orchestration
 
